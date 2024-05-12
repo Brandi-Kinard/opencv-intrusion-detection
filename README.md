@@ -6,7 +6,7 @@
 ## Overview
 Welcome to the repository of the OpenCV Intrusion Detection System, a sophisticated tool designed to enhance security by monitoring surveillance video streams for unusual activities. This system not only identifies intrusions but also archives relevant video segments for further analysis and can trigger alerts to notify security personnel.
 
-<<img width="1266" alt="image" src="https://github.com/Brandi-Kinard/opencv-intrusion-detection/assets/52756042/edc7b640-205b-4fc7-a8c1-ccd1d678adc1">
+<img width="1267" alt="image" src="https://github.com/Brandi-Kinard/opencv-intrusion-detection/assets/52756042/70c02253-2659-4c75-9526-617c73683890">
 
 
 
